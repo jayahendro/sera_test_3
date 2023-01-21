@@ -20,7 +20,7 @@ Read our [Getting Started Guide](https://github.com/jayahendro/sera_test_3#getti
   ```
 
 - RabbitMQ
-  download and install from [here][https://rabbitmq.com/]
+  download and install from [here][rabbitmq-url]
 
 
 ### Installation
@@ -54,5 +54,6 @@ Jaya Hendro Gunawan - [@jayahendrogunawan][instagram-url]
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/jayahendro/
 [instagram-url]: https://www.instagram.com/jayahendrogunawan/
+[rabbitmq-url]: https://rabbitmq.com/
 [success-log]: ./img/run_project.png
 [success-email]: ./img/email_success.png
