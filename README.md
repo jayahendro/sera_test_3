@@ -20,7 +20,7 @@ Read our [Getting Started Guide](https://github.com/jayahendro/sera_test_3#getti
   ```
 
 - RabbitMQ
-  download and install from [here][]
+  download and install from [here][https://rabbitmq.com/]
 
 
 ### Installation
