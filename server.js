@@ -56,7 +56,7 @@ amqp.connect(`${process.env.RABBITMQ_CONNECTION}://${process.env.RABBITMQ_HOST}`
     console.log(' [*] Waiting for messages in %s. To exit press CTRL+C', queue);
 
     channel.consume(queue, (msg) => {
-      console.log(' [x] Received %s', msg.content.toString());
+      console.log(' [✔] Received %s', msg.content.toString());
 
       const sendEmail = async (mailDetails) => {
         const transporter = nodemailer.createTransport({
